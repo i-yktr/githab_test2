@@ -1,3 +1,2 @@
 sample2
 tarou
-hello
